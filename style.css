@@ -9,11 +9,11 @@ p {
 
 body {
     display: flex;
+    height: 100vh;
 }
 
 .sidebar {
     background-image: url('halie-west-25xggax4bSA-unsplash.jpg');
-    height: 100vh;
     color: white;
     width: 550px;
     flex-shrink: 0;
@@ -44,10 +44,6 @@ img {
 .image-credits {
     text-align: center;
     opacity: 0.8;
-}
-
-.main {
-    height: 100vh;
 }
 
 .header{
